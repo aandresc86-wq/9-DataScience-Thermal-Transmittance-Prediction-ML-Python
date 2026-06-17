@@ -7,6 +7,19 @@ The solution integrates **Data Science, Engineering Analytics, and Energy Effici
 
 ---
 
+## 🎯 Business Problem  
+Estimating thermal properties of materials requires complex experimentation, making it time-consuming and costly for engineering decision-making.
+
+---
+
+## ✅ Business Impact  
+- Developed a predictive model to estimate material thermal performance  
+- Reduced reliance on experimental testing for early-stage evaluation  
+- Enabled faster decision-making in material design and selection  
+- Provided data-driven insights for sustainable material optimization  
+
+---
+
 ## 🎯 Business Context
 In sustainable construction, many alternative materials lack reliable thermal performance data. This creates challenges for:
 
