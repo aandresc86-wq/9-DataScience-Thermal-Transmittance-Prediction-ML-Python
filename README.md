@@ -12,11 +12,12 @@ Estimating thermal properties of materials requires complex experimentation, mak
 
 ---
 
-## ✅ Business Impact  
-- Developed a predictive model to estimate material thermal performance  
-- Reduced reliance on experimental testing for early-stage evaluation  
-- Enabled faster decision-making in material design and selection  
-- Provided data-driven insights for sustainable material optimization  
+## 💼 Business Impact
+- Reduced testing costs and time  
+- Enabled **real-time thermal performance prediction**  
+- Supported **sustainable material innovation**  
+- Improved **decision-making in construction design**  
+- Contributed to **energy efficiency optimization**  
 
 ---
 
@@ -141,15 +142,6 @@ Developed a tool for:
 - **Interactive prediction tool**
 - **Energy efficiency analysis**
 - **Sustainability-focused modeling**
-
----
-
-## 💼 Business Impact
-- Reduced testing costs and time  
-- Enabled **real-time thermal performance prediction**  
-- Supported **sustainable material innovation**  
-- Improved **decision-making in construction design**  
-- Contributed to **energy efficiency optimization**  
 
 ---
 
